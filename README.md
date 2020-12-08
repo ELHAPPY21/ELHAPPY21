@@ -21,6 +21,9 @@ An application that lets a player create a custom insect character: [Adopt-An-In
 ## Shift Cipher
 ![Image](https://snipboard.io/srnuAx.jpg)
 is an application that encodes and decodes using a simple substitution cipher.
-## Trivia Game
-![Image](https://snipboard.io/oi2hVI.jpg)
+## Trivia Game WPF
+![Image](https://snipboard.io/baOgZY.jpg)
+![Image](https://snipboard.io/B6mGdS.jpg)
+![Image](https://snipboard.io/EB3agy.jpg)
+
 An apllication that showcases your skills at recording the player/user input.
